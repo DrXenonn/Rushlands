@@ -29,8 +29,8 @@ A fast-paced multiplayer RTS for 2–6 players. Capture buildings, build armies,
 
 ### Gameplay
 <p align="center">
-  <img src="docs/3.png" width="400">
-  <img src="docs/11.png" width="400">
+  <img src="docs/3.png" width="600">
+  <img src="docs/11.png" width="600">
 </p>
 
 ### Water Battle
@@ -41,8 +41,8 @@ A fast-paced multiplayer RTS for 2–6 players. Capture buildings, build armies,
 
 ### Upgrading Buildings
 <p align="center">
-  <img src="docs/2.gif" width="400">
-  <img src="docs/4.gif" width="400">
+  <img src="docs/2.gif" width="250">
+  <img src="docs/4.gif" width="250">
 </p>
 
 ### Game Over
