@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbd5dd32938af4647a70bf05a4562cef, type: 3}
+  m_Name: Mine
+  m_EditorClassIdentifier: 
+  ID: 4
+  Name: Gold Mine
+  NodeVisuals: {fileID: 4895728535232248998, guid: 3ce15d244fe764f4289a6a1880b9fdf1, type: 3}
+  Icon: {fileID: 21300000, guid: 9f51be48bf938cd4c94aa4e6052e15f9, type: 3}
+  MaxUnits: 20
+  StartingUnits: 20
+  UnitsPerSecond: 0
+  GoldPerSecond: 0.18
+  AttackPerSecond: 0
+  Range: 0
+  BaseDamage: 0
+  Armor: 0
+  Price: 10
+  IsBallista: 0
+  IsMainBuilding: 0
+  DemolishedNode: {fileID: 11400000, guid: 4ac86e115807f274bb89f1ad74dba99d, type: 2}
+  UpgradeOptions: []
+  SelectionSfx: {fileID: 11400000, guid: d5eebe8f901874147b6eee2d9878baff, type: 2}

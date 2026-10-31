@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbd5dd32938af4647a70bf05a4562cef, type: 3}
+  m_Name: Tent
+  m_EditorClassIdentifier: 
+  ID: 0
+  Name: Tent
+  NodeVisuals: {fileID: 5204502895007380238, guid: 838fce8da34c8854fb0e1db52f0794a2, type: 3}
+  Icon: {fileID: 1182151517, guid: fec0d7bcdaf76c848a7862beba5532c0, type: 3}
+  MaxUnits: 10
+  StartingUnits: 10
+  UnitsPerSecond: 0
+  GoldPerSecond: 0
+  AttackPerSecond: 0
+  Range: 0
+  BaseDamage: 0
+  Armor: 0
+  Price: 5
+  IsBallista: 0
+  IsMainBuilding: 0
+  DemolishedNode: {fileID: 0}
+  UpgradeOptions:
+  - {fileID: 11400000, guid: 9e2fa8ce6a8e5ac4eb391e2c6b23e548, type: 2}
+  - {fileID: 11400000, guid: e3c8e945cda8ea74082716c4a8392812, type: 2}
+  - {fileID: 11400000, guid: 4a3557319b6a7a84aa3a590a0edd367f, type: 2}
+  SelectionSfx: {fileID: 11400000, guid: 5a8e8167590e25745a4f3205aa9d9e64, type: 2}
